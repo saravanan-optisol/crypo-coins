@@ -1,0 +1,12 @@
+[2022-08-23T12:09:20.226] [ERROR] app - ReferenceError: sendResponse is not defined
+    at Object.sendSuccess (/home/laptop-ry-24/Music/crypto/server/src/helpers/resHandler.js:119:5)
+    at /home/laptop-ry-24/Music/crypto/server/src/routes/cryptoRoute.js:12:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-08-23T12:10:34.123] [ERROR] app - ReferenceError: sendResponse is not defined
+    at Object.sendSuccess (/home/laptop-ry-24/Music/crypto/server/src/helpers/resHandler.js:119:5)
+    at /home/laptop-ry-24/Music/crypto/server/src/routes/cryptoRoute.js:12:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-08-23T12:11:05.556] [ERROR] app - ReferenceError: sendResponse is not defined
+    at Object.sendSuccess (/home/laptop-ry-24/Music/crypto/server/src/helpers/resHandler.js:119:5)
+    at /home/laptop-ry-24/Music/crypto/server/src/routes/cryptoRoute.js:12:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)

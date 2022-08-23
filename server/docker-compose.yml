@@ -1,0 +1,14 @@
+version: "1"
+
+services:
+  crypto-web:
+    image: "crypto-web:dev"
+    container_name: "crypto-web-dev"
+    ports:
+      - "3000:3000"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "40k"
+        max-file: "20"
+    restart: always
